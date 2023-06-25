@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bnoah456
 - 👀 I’m interested in Anime, Woodworking, Exercising
-- 🌱 HTML5, JavaScript, CSS, C++, C# (never ending coding journey)
+- 🌱 ASP.NET C# (never ending coding journey)
 - 📫 How to reach me...Email: Bnoah456@gmail.com
 - 
 
