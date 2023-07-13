@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bnoah456
-- 👀 I’m interested in Anime, Woodworking, Exercising
+- 👀 Currently a Student at Western Governors University B.S SWE
 - 🌱 ASP.NET C# 
 - 📫 How to reach me...Email: Bnoah456@gmail.com
 - 
