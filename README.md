@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bnoah456
 - 👀 Currently a Student at Western Governors University B.S SWE
-- 🌱 ASP.NET C# 
+- 🌱 SQL, Python
 - 📫 How to reach me...Email: Bnoah456@gmail.com
 - 
 
